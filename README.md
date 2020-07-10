@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 🌱    I’m currently learning Deep Learning  
 💬    Ask me about Python, React, node.js or C  
