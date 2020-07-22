@@ -6,4 +6,4 @@ Hi there 👋
 ⚡    Fun fact: I know all memes  
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/whoanuragverma?label=%40whoanuragverma&logo=twitter&style=flat-square)](https://twitter.com/whoanuragverma)
-[![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Anurag%20Verma&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fwhoanuragverma)](https://linkedin.com/whoanuragverma)
+[![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Anurag%20Verma&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fwhoanuragverma)](https://linkedin.com/in/whoanuragverma)
