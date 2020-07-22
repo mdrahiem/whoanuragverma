@@ -5,6 +5,5 @@ Hi there 👋
 💼    Currently working on a secret government project. Just kidding I'm unemployed 😶  
 ⚡    Fun fact: I know all memes  
 
-[![HitCount](http://hits.dwyl.com/whoanuragverma/whoanuragverma.svg)](https://github.com/whoanuragverma)
-
-
+[![Twitter Badge](https://img.shields.io/twitter/follow/whoanuragverma?label=%40whoanuragverma&logo=twitter&style=flat-square)](https://twitter.com/whoanuragverma)
+[![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Anurag%20Verma&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fwhoanuragverma)](https://linkedin.com/whoanuragverma)
