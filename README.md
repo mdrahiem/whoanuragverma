@@ -1,9 +1,10 @@
 Hi there 👋
 
-🌱    I’m currently learning Deep Learning  
-💬    Ask me about Python, React, node.js or C  
-💼    Currently working on a secret government project. Just kidding I'm unemployed 😶  
+🌱    I’m currently learning Java
+💬    Ask me about Python, React, node.js, C++ or Angular
+🐛    I like to fix bugs and work on creative projects
+💼    Currently working on a blockchain based peer to peer messenger
 ⚡    Fun fact: I know all memes  
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/whoanuragverma?label=%40whoanuragverma&logo=twitter&style=flat-square)](https://twitter.com/whoanuragverma)
+![Tracker](https://komarev.com/ghpvc/?username=whoanuragverma&style=flat-square)
 [![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Anurag%20Verma&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fwhoanuragverma)](https://linkedin.com/in/whoanuragverma)
