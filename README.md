@@ -1,6 +1,7 @@
 Hi there 👋
 
 🌱    I’m currently learning Java
+
 💬    Ask me about Python, React, node.js, C++ or Angular
 🐛    I like to fix bugs and work on creative projects
 💼    Currently working on a blockchain based peer to peer messenger
